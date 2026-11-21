@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth Global Share</string>
+    <string name="service_notification_channel_name">Bluetooth Relay Service</string>
+    <string name="service_notification_channel_desc">Keeps offline Bluetooth discovery, relay forwarding, and file transfers active.</string>
+    <string name="message_notification_channel_name">Offline Messages</string>
+    <string name="message_notification_channel_desc">Alerts for incoming decrypted Bluetooth messages and completed file transfers.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Bluetooth Global Share",
+  "description": "Decentralized offline Bluetooth peer-to-peer messaging, chunked file sharing, and encrypted store-and-forward relay network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
